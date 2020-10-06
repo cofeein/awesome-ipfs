@@ -122,6 +122,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [uport](https://www.uport.me) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
 - [Wistful Books](https://wistfulbooks.com/) - Single page offline application for enjoying librivox.org audio books. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - A fork of xfce-screenshooter with IPFS support!
+- [Trusti](https://trusti.id) - Blockchain-based Data Certification.
 
 ## Articles
 
